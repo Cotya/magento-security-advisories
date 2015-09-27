@@ -1,0 +1,13 @@
+{
+    "name": "cotya/magento-security-advisories",
+    "require": {
+        "symfony/yaml": "~2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Fahlke aka Flyingmana",
+            "email": "flyingmana@googlemail.com"
+        }
+    ]
+}
