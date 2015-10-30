@@ -1,0 +1,7 @@
+title:     SUPEE-6788
+link:      http://merch.docs.magento.com/ce/user_guide/magento/release-notes-ce-1.9.2.2.html
+branches:
+    1.x:
+        time:     2015-10-27 12:00:00
+        versions: [<1.9.2.2]
+reference: composer://connect20/Mage_All_Latest
