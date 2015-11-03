@@ -11,6 +11,10 @@ This project is completely community driven.
 
 The Idea and Format is *"copied"* from https://github.com/FriendsOfPHP/security-advisories
 
+Examples where you can see them used:  
+* https://www.versioneye.com/php/dweeves:magmi/0.7.19
+* https://www.versioneye.com/php/connect20:mage_all_latest/1.9.2.0
+
 License
 -------
 
